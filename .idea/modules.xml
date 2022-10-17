@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android-dagger-to-hilt.iml" filepath="$PROJECT_DIR$/.idea/modules/android-dagger-to-hilt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android-dagger-to-hilt.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android-dagger-to-hilt.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android-dagger-to-hilt.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android-dagger-to-hilt.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android-dagger-to-hilt.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android-dagger-to-hilt.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android-dagger-to-hilt.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android-dagger-to-hilt.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
